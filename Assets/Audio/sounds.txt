@@ -1,0 +1,45 @@
+GUI:	
+								click GUI= TS/impact2
+								popup UI= tssounds/error2
+								switch to round2 (radio static)					impact with drips,static hit
+								Level was loaded 						impact with drips
+
+
+Player:
+						//		player2 : cough = cough heavy, coughx4
+						//		get hit								Malehit1,2,3
+	
+						//		footsteps 
+	
+						//		shotgun rpg marregherti shotgun
+						//		laser = sniperrifle
+						//		death = male hit 4
+
+
+
+
+Slime:
+						//		hit = slime 2,7
+						//		death = slime9
+						//		attack RPGsoundpack random1,random2
+						//		Player Detect		TS/error3
+						//		Alarm detect		TS/error3
+						//		slime2: spawned = slime1,2,3, TS/Woosh
+
+Misc:
+						//		Laser ambiance, deactivate	47127__gyzhor__lightsaber5
+						//		drag objects		147002__d-w__chair-stool-wooden-dragged-09
+						//		Light on,off							TS/Lighter use
+						//		Winarea								TS/Harp2, TS/Bass and guitar
+						//		pick up objects		chainmail2
+
+Explosives:
+						//		blast							explosionbombblastambient2
+					       -//-		(opt) cylinder hits floor
+Tree:
+						//		death							Low buzz
+								
+
+
+
+								Ambiance  Socapex - SciFi Freakout - Mastered_0.mp3    SCIFI  http://opengameart.org/content/sci-fi-freak-out-ambiance
